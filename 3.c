@@ -1,3 +1,5 @@
+//\"text\" use for "text"
+
 #include <stdio.h>
 int main(){
     printf("\"C\" and \"Python\" are popular languages.");
