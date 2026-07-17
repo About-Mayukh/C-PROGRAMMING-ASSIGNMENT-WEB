@@ -1,3 +1,6 @@
+//ignore the if and else command for now if interested then do it
+//not recomended to use if and else setuation for assignment 
+
 #include <stdio.h>
 
 int main() {
