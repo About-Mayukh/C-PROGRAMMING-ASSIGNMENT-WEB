@@ -1,3 +1,5 @@
+//use the pattern separetly to execute the triangle and square diffrently
+
 #include <stdio.h>
 int main(){
     printf("Triangle Pattern:\n\n");
