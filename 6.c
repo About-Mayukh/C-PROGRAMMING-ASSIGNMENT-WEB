@@ -1,3 +1,6 @@
+//simple logic 
+//circle area = π x radius² convert into mechine language
+
 #include <stdio.h>
 
 int main() {
